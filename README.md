@@ -1,5 +1,5 @@
 # BME 547 Final Project
-Kaan Sahingur and Adam Krekorian
+Adam Krekorian and Kaan Sahingur
 
 Finalized November 16, 2020
 
